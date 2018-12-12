@@ -15,6 +15,7 @@ Find your Slack's application directory.
 * Linux: `/usr/lib/slack/` (Debian-based)
 
 Then open these two files:
+
 `resources\app.asar.unpacked\src\static\index.js`
 `resources\app.asar.unpacked\src\static\ssb-interop.js`
 
